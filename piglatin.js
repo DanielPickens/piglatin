@@ -73,4 +73,5 @@ function translatePigLatin(str) {
 
 }
 
-translatePigLatin("data");
+translatePigLatin("LostWorld");
+
